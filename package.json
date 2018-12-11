@@ -9,10 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^1.0.3",
+    "config": "^3.0.0",
     "express": "^4.16.4",
     "fawn": "^2.1.5",
     "joi": "^14.0.0",
     "joi-objectid": "^2.0.0",
-    "mongoose": "^5.3.4"
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.4",
+    "node-pre-gyp": "^0.12.0"
   }
 }

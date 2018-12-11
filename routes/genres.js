@@ -17,7 +17,6 @@ router.post('/', async (req, res) => {
     console.log(genre)
     genre = await genre.save()
     res.send(genre);
-
 });
 
 router.put('/:id', async (req, res) => {
