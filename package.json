@@ -19,6 +19,7 @@
     "hoek": "^5.0.3",
     "joi": "^13.1.0",
     "joi-objectid": "^2.0.0",
+    "jsdom": "^11.11.0",
     "jsonwebtoken": "^8.1.1",
     "lodash": "^4.17.11",
     "merge": "^1.2.1",
